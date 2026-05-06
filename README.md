@@ -1,3 +1,7 @@
 # Lab 5 - Starter
-Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
+
 Amberly Truong
+
+## Questions
+1. No, I can not test the "messages" feature with unit tests. This is because of the integration, I can not tell if the other end can recieve messages. 
+2. Yes, this is testable with unit test since we can check the limit. Example, 79 chars allowed, 80 chars allowed, 81 chars blocked. 
