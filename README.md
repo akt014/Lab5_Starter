@@ -1,6 +1,9 @@
 # Lab 5 - Starter
 
 Amberly Truong
+Expose: https://akt014.github.io/Lab5_Starter/expose.html
+Explore: https://akt014.github.io/Lab5_Starter/explore.html
+
 
 ## Questions
 1. No, I can not test the "messages" feature with unit tests. This is because of the integration, I can not tell if the other end can recieve messages. 
